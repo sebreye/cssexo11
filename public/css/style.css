@@ -1,0 +1,15 @@
+section{
+    display: flex;
+    justify-content: space-between;
+}
+
+div{
+    background-color: red;
+
+    width: 230px;
+    height: 70px;
+}
+p{
+    display: flex;
+    justify-content: center;
+}
